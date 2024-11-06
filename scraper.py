@@ -15,6 +15,8 @@ driver = webdriver.Firefox(
     service=service,
 )
 
+time.sleep(10)
+
 SleepTime = 3
 base_url = 'https://www.yellowpages.com/'
 driver.get(base_url)
