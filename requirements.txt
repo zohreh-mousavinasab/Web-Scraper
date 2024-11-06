@@ -1,6 +1,6 @@
 streamlit         
 pandas             
-seleniumbase
+selenium
 webdriver-manager
 beautifulsoup4   
 urllib3
